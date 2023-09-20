@@ -41,7 +41,7 @@ void shopping::menu(){
             cin>>email;
             cout<<"\t\t Enter Password: ";
             cin>>pswd;
-            if(email=="pb" && pswd=="admin@123"){
+            if(email=="pbansal2025@gmail.com" && pswd=="admin@123"){
                 admin();
             }
             else{
